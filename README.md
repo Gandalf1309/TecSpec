@@ -6,7 +6,7 @@ An interactive web application built with **Python** and **Streamlit** for proce
 
 It unifies a multi-format data loader and two physically distinct processing pipelines into a single platform: **Laser-Induced Breakdown Spectroscopy (LIBS)** and **Reflectance Spectroscopy (VNIR-SWIR)**.
 
-> 🚀 **Live Demo:** *(Add your Streamlit Community Cloud URL here once deployed)*
+> 🚀 **Live Demo:** https://tecspec.streamlit.app/
 
 ---
 
