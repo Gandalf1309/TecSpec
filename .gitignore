@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.h5
+*.hdf5
+!data/sample_spectra/hidsag/sample_swir_mini.h5
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.env
