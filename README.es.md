@@ -4,7 +4,7 @@ Aplicación web interactiva desarrollada en **Python** y **Streamlit** para el p
 
 Integra en una sola plataforma un cargador universal multi-formato y dos pipelines de procesamiento físicamente diferenciados: **espectroscopía de emisión atómica (LIBS)** y **espectroscopía de reflectancia (VNIR-SWIR)**.
 
-> 🚀 **Demo en vivo:** *(Agrega aquí tu enlace de Streamlit Cloud cuando lo despliegues)*
+> 🚀 **Demo en vivo:** https://tecspec.streamlit.app/
 
 ---
 
