@@ -167,4 +167,4 @@ tecspec-libs/
 ## 👤 Author
 
 **Bastián Palma** — Mining Engineering Student | Data Analysis & Scientific Software Development  
-[GitHub](https://github.com/<your-username>) • [LinkedIn](https://linkedin.com/in/<your-profile>)
+[GitHub](https://github.com/Gandalf1309) • [LinkedIn](https://www.linkedin.com/in/bastian-palma-munizaga/)
